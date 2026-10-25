@@ -19,7 +19,7 @@ The Download Resume button opens the supplied Google Drive file.
 
 Edit `dist/index.html` for content and links, `dist/styles.css` for presentation, and `dist/script.js` for the scroll indicator, active navigation, and copy-email interaction.
 
-To preview locally, open a terminal in `dist`, run cd `dist`, `py -m http.server 8000` on Windows or `python3 -m http.server 8000` on macOS/Linux, and visit `http://localhost:8000`.
+To preview locally, open a terminal in `dist`, run `cd dist`, run `py -m http.server 8000` on Windows or `python3 -m http.server 8000` on macOS/Linux, and visit `http://localhost:8000`.
 
 ## Assets and attribution
 
